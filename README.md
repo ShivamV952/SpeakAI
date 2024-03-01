@@ -1,6 +1,6 @@
 # speak_ai
 
-A new Flutter project.
+A Flutter-built voice assistant app leveraging OpenAI, ChatGPT, and DALL-E for intelligent interactions. Utilizes Dart for seamless integration and features text-to-speech functionality for enhanced user engagement. Experience the forefront of AI technology with SpeakAI.
 
 ## Getting Started
 
